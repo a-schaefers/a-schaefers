@@ -12,7 +12,7 @@
   - **[backseat-driver](https://github.com/a-schaefers/backseat-driver)**: my tutor for keeping AI-era programmers' fundamentals sharp.
   - **[.emacs.d](https://github.com/a-schaefers/.emacs.d)**: my Emacs config. It starts in about 0.2s, with everything deferred through use-package. It prefers built-ins (eglot, flymake), runs on vertico/corfu/tree-sitter, and binds the same SLIME-style keys in every language.
 
-- **2020 – 2025 · ☁️ DevOps @ Upgrade, Immaculata Studios, Skvare**
+- **2020 – 2025 · ☁️ DevOps @ Upgrade, Inc. · Immaculata Studios, LLC · Skvare, LLC**
   Herded Kubernetes, Terraform (5k+ lines of homegrown modules), AWS, CI/CD pipelines, monitoring, and a Postfix server that sent a million emails a month without landing in spam.
 
 - **2017 – 2020 · 🐧 Open Source Hermit**

@@ -21,7 +21,7 @@
 
 ### 🎧 Off the clock
 
-Professional music recording, aspiring DJ, and I play guitar. 🎸 Big fan of house music. I love traveling in Europe, especially Greece. 🇬🇷 Born and raised in the Pacific Northwest, so naturally I'm an avid fly fisherman. 🎣
+Professional music recording, aspiring DJ, and I play guitar. 🎸 Big fan of house music. I love traveling in Europe, especially Greece. 🇬🇷 Born and raised in the Pacific Northwest, and an avid fly fisherman. 🎣
 
 ### 📦 What's here
 

@@ -7,7 +7,7 @@
 - **2025 – now · 🎮 Founder, [Land of Enchantment Games](https://enchant.games)**
   My personal indie game studio, based in New Mexico.
 - **Also cooking 🍳: my side projects**
-  - **[merecatholicity.com](https://merecatholicity.com)**: my eclectic ecumenical project, gathering the shared heritage of East and West, Catholic, Orthodox and Protestant. I built it headless and serverless, in PureScript, lit-js, Tailwind and Terraform. For the community side I borrowed the best bits of the old internet: 4chan-style auth, Snapchat-style DMs, Signal-style end-to-end encryption, and Facebook-style profiles and walls.
+  - **[merecatholicity.com](https://merecatholicity.com)**: my eclectic ecumenical project. I built it headless and serverless, in PureScript, lit-js, Tailwind and Terraform. For the community side I borrowed the best bits of the old internet: 4chan-style auth, Snapchat-style DMs, Signal-style end-to-end encryption, and Facebook-style profiles and walls.
   - **[stasislinux.org](https://stasislinux.org)**: my own Linux distro, the natural follow-through of my years as a package maintainer on KISS Linux with Dylan Araps.
   - **[backseat-driver](https://github.com/a-schaefers/backseat-driver)**: my tutor for keeping AI-era programmers' fundamentals sharp.
   - **[.emacs.d](https://github.com/a-schaefers/.emacs.d)**: my Emacs config. It starts in about 0.2s, with everything deferred through use-package. It prefers built-ins (eglot, flymake), runs on vertico/corfu/tree-sitter, and binds the same SLIME-style keys in every language.

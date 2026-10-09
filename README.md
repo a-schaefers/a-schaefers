@@ -13,7 +13,7 @@
   - **[.emacs.d](https://github.com/a-schaefers/.emacs.d)**: my Emacs config. It starts in about 0.2s, with everything deferred through use-package. It prefers built-ins (eglot, flymake), runs on vertico/corfu/tree-sitter, and binds the same SLIME-style keys in every language.
 
 - **2020 – 2025 · ☁️ DevOps @ Upgrade, Inc. · Immaculata Studios, LLC · Skvare, LLC**
-  Herded Kubernetes, Terraform (5k+ lines of homegrown modules), AWS, CI/CD pipelines, monitoring, and a Postfix server that sent a million emails a month without landing in spam. Rode the industry's evolution from LAMP-stack monoliths to IaC-driven cloud microservices, right up to the arrival of AI automation, which is when I turned to gamedev.
+  Herded Kubernetes, Terraform (5k+ lines of homegrown modules), AWS, CI/CD pipelines, monitoring, and a Postfix server that sent a million emails a month without landing in spam. Rode the industry's evolution from LAMP-stack monoliths to IaC-driven cloud microservices, right up to the arrival of AI automation, which is when I turned to solo gamedev.
 
 - **2017 – 2020 · 🐧 Open Source Hermit**
   Spent 10+ hours a day learning Linux from the kernel up. Maintained packages for KISS Linux, wrote docs for Funtoo, and built [Themelios](https://github.com/a-schaefers/themelios) (a NixOS ZFS-on-root installer) and [Spartan Emacs](https://github.com/a-schaefers/spartan-emacs). Got commits merged upstream ([e.g. the kernel](https://bugzilla.kernel.org/show_bug.cgi?id=206741)).

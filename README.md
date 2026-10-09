@@ -16,9 +16,18 @@
   Herded Kubernetes, Terraform (5k+ lines of homegrown modules), AWS, CI/CD pipelines, monitoring, and a Postfix server that sent a million emails a month without landing in spam. Rode the industry's evolution from LAMP-stack monoliths to IaC-driven cloud microservices, right up to the arrival of AI automation, which is when I turned to solo gamedev.
 
 - **2017 – 2020 · 🐧 Open Source Hermit**
-  Spent 10+ hours a day learning Linux from the kernel up. Maintained packages for KISS Linux, wrote docs for Funtoo, and built [Themelios](https://github.com/a-schaefers/themelios) (a NixOS ZFS-on-root installer) and [Spartan Emacs](https://github.com/a-schaefers/spartan-emacs). Got commits merged upstream ([e.g. the kernel](https://bugzilla.kernel.org/show_bug.cgi?id=206741)).
+  Spent 10+ hours a day learning Linux from the kernel up. Maintained packages for KISS Linux, wrote docs for Funtoo, and built [Themelios](https://github.com/a-schaefers/themelios) (a NixOS ZFS-on-root installer) and [Spartan Emacs](https://github.com/a-schaefers/spartan-emacs). Got commits merged upstream ([e.g. libcap](https://bugzilla.kernel.org/show_bug.cgi?id=206741)).
   Also went viral on Hacker News by booting my Linux distro with Emacs as init ([systemE](https://news.ycombinator.com/item?id=28439275)).
 
 ### 🎧 Off the clock
 
 Professional music recording, aspiring DJ, and I play guitar. 🎸 Big fan of house music. I love traveling in Europe, especially Greece. 🇬🇷 Born and raised in the Pacific Northwest, and an avid fly fisherman. 🎣
+
+### 🤖 The slop shelf
+
+My secondary GitHub, [@el-sloppo](https://github.com/el-sloppo), is where I push my favorite AI slop projects. Most of them live under [Emacs-OS](https://github.com/emacs-os):
+
+- **[embr.el](https://github.com/emacs-os/embr.el)**: a web browser inside Emacs. Emacs is the display server and headless Chromium is the renderer, streamed over CDP screencast. It has EXWM-style key passthrough, optional Vimium-style modal navigation, and a native C rendering path built on the Emacs canvas patch. It doubles as a proof of concept for getting that patch mainlined.
+- **[jellyfin-emms-mpv.el](https://github.com/emacs-os/jellyfin-emms-mpv.el)**: browse and play your Jellyfin library from Emacs. Music goes through EMMS and video through mpv, with poster galleries, and playback position syncs back so "Continue Watching" stays accurate.
+- **[elcava](https://github.com/emacs-os/elcava)**: a cava clone in pure Emacs Lisp. It captures system audio from PipeWire, runs the FFT in Elisp, and draws a live Unicode spectrum in a buffer.
+- **[el-init](https://github.com/emacs-os/el-init)**: Emacs as PID 1, for real this time. It's a systemd-inspired service supervisor written in Emacs Lisp, with a dependency graph, targets, an `M-x elinit` dashboard and an `elinitctl` CLI, plus an optional static-build patchset that turns Emacs into an actual init. It's the spiritual sequel to systemE and the core of Emacs-OS.

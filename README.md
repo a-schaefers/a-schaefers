@@ -6,11 +6,11 @@
 
 - **2025 – now · 🎮 Founder, [Land of Enchantment Games](https://enchant.games)**
   My personal indie game studio, based in New Mexico.
-- **Also cooking 🍳**
-  - **[merecatholicity.com](https://merecatholicity.com)**: "what has been believed everywhere, always, and by all." It's a site about historic Christian faith, with a library, typeset books, guides to prayer and devotion, and a community layer on top. It's built with PureScript, lit-js, Tailwind and Terraform, and it's headless and serverless. The community side borrows the best bits of the old internet: 4chan-style auth, Snapchat-style DMs, Signal-style end-to-end encryption, and Facebook-style profiles and walls.
-  - **[stasislinux.org](https://stasislinux.org)**: a Linux distro, because old habits die hard.
-  - **[backseat-driver](https://github.com/a-schaefers/backseat-driver)**: a tutor that keeps AI-era programmers' fundamentals sharp. Use the robots, skip the brainrot. 🧠
-  - **[.emacs.d](https://github.com/a-schaefers/.emacs.d)**: starts in about 0.2s, with everything deferred through use-package. It prefers built-ins (eglot, flymake), runs on vertico/corfu/tree-sitter, and binds the same SLIME-style keys in every language. It does not frik with AI.
+- **Also cooking 🍳: my side projects**
+  - **[merecatholicity.com](https://merecatholicity.com)**: my site about historic Christian faith, "what has been believed everywhere, always, and by all." It has a library, typeset books, guides to prayer and devotion, and a community layer on top. I built it headless and serverless, in PureScript, lit-js, Tailwind and Terraform. For the community side I borrowed the best bits of the old internet: 4chan-style auth, Snapchat-style DMs, Signal-style end-to-end encryption, and Facebook-style profiles and walls.
+  - **[stasislinux.org](https://stasislinux.org)**: my own Linux distro, the natural follow-through of my years as a package maintainer on KISS Linux with Dylan Araps.
+  - **[backseat-driver](https://github.com/a-schaefers/backseat-driver)**: my tutor for keeping AI-era programmers' fundamentals sharp. Use the robots, skip the brainrot. 🧠
+  - **[.emacs.d](https://github.com/a-schaefers/.emacs.d)**: my Emacs config. It starts in about 0.2s, with everything deferred through use-package. It prefers built-ins (eglot, flymake), runs on vertico/corfu/tree-sitter, and binds the same SLIME-style keys in every language. It does not frik with AI.
 
 - **2020 – 2025 · ☁️ DevOps @ Upgrade, Immaculata Studios, Skvare**
   Herded Kubernetes, Terraform (5k+ lines of homegrown modules), AWS, CI/CD pipelines, monitoring, and a Postfix server that sent a million emails a month without landing in spam.

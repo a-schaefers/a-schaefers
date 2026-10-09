@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**Devops | Full stack dev | Gamedev | Founder**
+
 **TL;DR:** Linux nerd → DevOps wrangler → indie gamedev. 🐧 → ☁️ → 🎮
 
 ### 🗺️ The Quest Log

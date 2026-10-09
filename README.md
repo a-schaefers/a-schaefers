@@ -17,7 +17,7 @@
 
 - **2017 – 2020 · 🐧 Open Source Hermit**
   Spent 10+ hours a day learning Linux from the kernel up. Maintained packages for KISS Linux, wrote docs for Funtoo, and built [Themelios](https://github.com/a-schaefers/themelios) (a NixOS ZFS-on-root installer) and [Spartan Emacs](https://github.com/a-schaefers/spartan-emacs). Got commits merged upstream ([e.g. the kernel](https://bugzilla.kernel.org/show_bug.cgi?id=206741)).
-  Also went viral on Hacker News by booting my Linux distro with Emacs as init ([systemE](https://news.ycombinator.com/item?id=28439275)). No regrets.
+  Also went viral on Hacker News by booting my Linux distro with Emacs as init ([systemE](https://news.ycombinator.com/item?id=28439275)).
 
 ### 🎧 Off the clock
 

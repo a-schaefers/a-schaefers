@@ -22,9 +22,3 @@
 ### 🎧 Off the clock
 
 Professional music recording, aspiring DJ, and I play guitar. 🎸 Big fan of house music. I love traveling in Europe, especially Greece. 🇬🇷 Born and raised in the Pacific Northwest, and an avid fly fisherman. 🎣
-
-### 📦 What's here
-
-Most of my professional work lives in private company repos. Public projects are listed above.
-
-🚀 To follow along with my latest endeavors, see [enchant.games](https://enchant.games) / [@LandOfEnchantment](https://github.com/LandOfEnchantment) 🚀

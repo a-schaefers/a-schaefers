@@ -7,7 +7,7 @@
 ### 🗺️ The Quest Log
 
 - **2025 – now · 🎮 Founder, [Land of Enchantment Games](https://enchant.games)**
-  My personal indie game studio, based in New Mexico.
+  My indie gamedev studio, based in New Mexico.
 - **Also cooking 🍳: my side projects**
   - **[merecatholicity.com](https://merecatholicity.com)** ([Git](https://github.com/merecatholicity/merecatholicity.com)): my eclectic ecumenical project. It includes a self-published book, *Mere Catholicity* (public domain, typeset in LaTeX for PDF, paperback and Logos), a library of the Fathers, councils and classics re-typeset from public-domain sources, and **merecat** 🐈, an AI research librarian that answers from the library with citations. I built it serverless: a PureScript, lit-js and Tailwind front end over a custom headless API backend on Cloudflare Workers, with D1 (SQLite), R2 (S3-compatible storage) and Durable Objects for real-time chat. A GitHub Actions CI/CD system ships both the application and its Terraform infrastructure, with approval gates before production, staged rollouts and nightly tests against production. For the community side I borrowed the best bits of the old internet: 4chan-style auth, Snapchat-style DMs, Signal-style end-to-end encryption, and Facebook-style profiles and walls.
   - **[stasislinux.org](https://stasislinux.org)** ([Git](https://codeberg.org/sta_sis/stasis)): my own Linux distro, the natural follow-through of my years as a package maintainer on KISS Linux with Dylan Araps.

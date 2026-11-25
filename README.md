@@ -4,6 +4,8 @@
 
 **TL;DR:** Linux nerd → DevOps wrangler → indie gamedev. 🐧 → ☁️ → 🎮
 
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me-on%20GitHub-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/a-schaefers)
+
 ### 🗺️ The Quest Log
 
 - **2025 – now · 🎮 Founder, [Land of Enchantment Games](https://enchant.games)**
